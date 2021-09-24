@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  background-color:rgb(200, 196, 255);
+  
+}
+
+.ingredients {
+  position: absolute;
+  margin-top: -100px;
+}
+
+.cheese {
+  width: 100%;
+  position: absolute;
+}
+
+/* The container */
+.container-checkbox {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 30px;
+}
+
+
+.z1 {
+  z-index: 1;
+}
+
+.z2 {
+  z-index: 2;
+}
+
+.z3 {
+  z-index: 3;
+}
+.z4 {
+  z-index: 4;
+}
+
+.proceedToCheckout {
+  background: rgb(13, 138, 55);
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
